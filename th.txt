@@ -1,0 +1,71 @@
+scripting line line --> interptreter --> output
+
+c.cpp,java --->
+
+void main(){}
+
+# -->
+
+html -->
+python
+js scripting
+
+statically typed :- int x ,  c ,cpp ,java
+dynamically typed : -10 --> int "" --> js,python
+
+
+html --> js
+
+js -> manupulate DOM
+document object model / HTML 
+browser // client 
+
+js is client side scripting language
+
+js client side scripting language
+
+browser --> web page -->
+
+
+js --> client --> webpage / html-->
+
+DOM panipulation html 
+
+//inline , internal , external
+//inline, internal , external .js
+
+
+-----------------------------------
+java script engine...
+
+
+netscape navigator --> spider monkey --> firefox
+chrome --> v8
+safari --> webkit
+opera --> carakan
+IE --> chakra
+
+
+operators....
+1) operators are the special symbols which are used to perform some specific operations on operands.
+
+//unary , binary , ternary
+
+//unery :- require only one operand ,  ++a ,
+//binary :- require two operands , a+b
+//ternary :- require three operands , a?b:c
+
+binary operators:
+1)arithmatic operators :  +,-,*,/,%,++,-- 
+2)asignment operators : =,+=,-=,*=,/=,%=
+3)logical operators : &&,||,!
+4)bitwise operators : &,|,^,~,<<,>>
+5)relational operators : >,<,>=,<=,==,!=,===,!==
+6)conditional operators : ?:
+
+
+
+
+//age  -->  10 -->string...
+
+
