@@ -1,0 +1,30 @@
+//get monthly salary from user....
+// 12000 monthly---> yearly salary  * 12 = 144000
+
+1)if user's salary > 200000 then he is eligible for 2 wheeler loan
+2)if user's salary > 500000 then he is eligible for 4 wheeler loan
+3)if user's salary > 1000000 then he is eligible for house loan
+4)if user's salary > 1200000 then he is eligible for business loan
+
+if user's salary < 200000 then he is eligible for 2 wheeler loan he is eligible credit card
+and credit card limit is 50 % of his salary
+
+nested and ladder  5 statements ternary operator
+2 boolen return 
+
+
+do with function 
+    &&
+
+T   T   t
+F   -  F
+T   F  F
+
+
+||
+
+T   -   T
+F   F   F
+F   T  T
+
+*/
