@@ -11,9 +11,8 @@ and credit card limit is 50 % of his salary
 
 nested and ladder  5 statements ternary operator
 2 boolen return 
-
-
 do with function 
+
     &&
 
 T   T   t
