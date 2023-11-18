@@ -1,0 +1,10 @@
+lentgh
+concat
+toUpperCase
+toLowerCase
+String.fromCharCode(65)
+charCodeAt
+valueOf
+startsWith
+endsWith
+includes
