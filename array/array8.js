@@ -17,3 +17,4 @@ console.log(y)
 //filter --> return new array but with same or less length and it will return only those
 //elements which satisfy the condition
 //find --> return only one element which satisfy the condition
+//reduce --> will return single value --> sum of all elements
