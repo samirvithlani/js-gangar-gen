@@ -67,8 +67,13 @@ var store = [
 //5) find all products from store whose color is black
 
 var grocProd = store.find((item)=>item.name=="grocery").products
-console.log(grocProd)
+//console.log(grocProd)
 
-var prodPrice = store.map((item)=>{
-    return item.products.filter((prod)=>prod.price > 12000)
-}).forEach((item)=>console.log("item",item))
+// var prodPrice = store.map((item)=>{
+//     return item.products.filter((prod)=>prod.price > 12000)
+// }).forEach((item)=>console.log("item",item))
+
+var blackProd =  store.map((item)=>{
+    return item.products.filter((prod)=>prod.colors.includes("black"))
+})
+console.log(blackProd)
