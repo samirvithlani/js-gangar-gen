@@ -8,7 +8,7 @@ const loadData = () => {
 
     var user ={
         name:"ram",
-        age:20,
+        age:2,
         contact:1234567890
     }
 
@@ -20,7 +20,14 @@ const loadData = () => {
     // age.innerHTML = "20"
     // contact.innerHTML = "1234567890"
     name.innerHTML = user.name
-    age.innerHTML = user.age
+    if(user.age > 18){
+        age.style.color = "green"
+        age.innerHTML = user.age
+    }
+    else{
+        age.style.color = "red"
+        age.innerHTML = user.age
+    }
     contact.innerHTML = user.contact
 
 }
