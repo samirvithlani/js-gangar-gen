@@ -68,4 +68,7 @@ binary operators:
 
 //age  -->  10 -->string...
 
+event: -> event is an action or occurance which is performed by user or browser.
+mouse events : click,dblclick,mouseover,mouseout,mousemove,mousedown,mouseup
+keyboard events : keypress,keydown,keyup
 

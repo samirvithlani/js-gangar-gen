@@ -30,6 +30,10 @@ setTimeout(()=>{
 
 },2500)
 
+setInterval(()=>{
+    link.href = "https://www.google.com",
+    link.innerHTML = "google"
+},4500)
 
 
 
