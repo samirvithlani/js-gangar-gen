@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="./event5.js"></script>
+</head>
+<body>
+    <form onsubmit="submitHandler(event)">
+        <input type="text" placeholder="enter name" id="name">
+        <span id="nameError"></span>
+        <br>
+        <input type="text" placeholder="enter age" id="age" onkeyup="ageValidator()">
+        <p id="ageError"></p>
+        <input type="submit" value="submit">
+    </form>
+
+</body>
+</html>
