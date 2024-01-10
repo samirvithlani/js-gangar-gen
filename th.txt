@@ -81,3 +81,27 @@ static
 elments will created by javascript
 
 
+
+non-syn
+syncro  :
+
+
+nonsyncro :
+
+1stline ............ time [............]
+2d line ******
+.
+.
+.
+..
+..
+
+
+syncro
+1stline -->? ******************* print 3second 
+wait......
+
+promise 
+then catch
+async await
+
