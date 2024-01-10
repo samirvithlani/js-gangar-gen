@@ -39,4 +39,34 @@ function printData() {
     console.log(error);
   });
 }
-printData();
+///printData();
+
+function fetchUserData() {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve({
+        name: "rohit",
+        age: 25,
+      });
+    }, 3000);
+  });
+}
+
+// var x = fetchUserData();
+// console.log(x);
+// x.then((data) => {
+//   console.log(data);
+// });
+// x.catch((error) => {
+//   console.log(error);
+// });
+
+
+
+fetchUserData().then((data) => {
+
+    console.log(data);
+}).catch((error) => {
+    
+        console.log(error);
+})
