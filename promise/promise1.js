@@ -61,12 +61,10 @@ function fetchUserData() {
 //   console.log(error);
 // });
 
-
-
-fetchUserData().then((data) => {
-
+fetchUserData()
+  .then((data) => {
     console.log(data);
-}).catch((error) => {
-    
-        console.log(error);
-})
+  })
+  .catch((error) => {
+    console.log(error);
+  });
