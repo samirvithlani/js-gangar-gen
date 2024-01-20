@@ -105,3 +105,20 @@ promise
 then catch
 async await
 
+ NODE --> spring
+
+ uber --> map --> google map --> API call -->
+
+usa --> DATA --> REST API CALL --> url --> data
+
+post get
+ 
+GET  : --data fetching 
+POST :-> add create...
+PUT : --> update
+DELETE : delete
+
+
+fetch function...
+
+API --> call ->data...
