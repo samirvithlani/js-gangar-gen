@@ -122,3 +122,15 @@ DELETE : delete
 fetch function...
 
 API --> call ->data...
+
+js --> DATBASE ---> files... -->dynamic data API -->
+google maps --> google --> zomato,swigy,uber ola, --->
+
+google api --> url --> GET,POST,PUT,DELETE --> data --> json
+
+FETCH --->
+
+async await...
+
+FETCH :Promise<Response> --> then catch
+async await...
