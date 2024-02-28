@@ -36,3 +36,10 @@ create includes as udf function
 
 submit button should be disabled 
 enable only when all the fields are filled
+
+
+
+input type text ---> mithil@gmail.com onBlur function
+
+email is available
+email is not avaialble
